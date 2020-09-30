@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laminas/laminas-inputfilter": "^2.10",
+        "vimeo/psalm": "^3.16"
+    }
+}

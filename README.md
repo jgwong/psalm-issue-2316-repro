@@ -1,0 +1,1 @@
+Code to reproduce [Psalm issue #2316](https://github.com/vimeo/psalm/issues/2316).
